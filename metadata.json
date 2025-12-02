@@ -1,0 +1,5 @@
+{
+  "name": "ProcessAnalytics Dashboard",
+  "description": "A comprehensive dashboard for analyzing supply chain process times, featuring KPI tracking, trend analysis, and segmentation by supplier, city, and store.",
+  "requestFramePermissions": []
+}
